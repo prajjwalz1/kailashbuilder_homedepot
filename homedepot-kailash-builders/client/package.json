@@ -1,0 +1,44 @@
+{
+  "name": "homedepot-kailash-builders",
+  "version": "0.0.1",
+  "description": "A Quasar Framework app",
+  "productName": "Management System For Kailash Builders",
+  "author": "siddhantapoudel <siddhanta.poudel44@gmail.com>",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.0.0",
+    "apexcharts": "^3.26.3",
+    "core-js": "^3.6.5",
+    "cross-env": "^7.0.3",
+    "firebase": "^8.6.1",
+    "ky": "^0.27.0",
+    "mobx": "^5.15.7",
+    "mobx-vue": "^2.0.11",
+    "quasar": "^1.0.0",
+    "vue-apexcharts": "^1.6.1",
+    "vue-i18n": "^8.0.0"
+  },
+  "devDependencies": {
+    "@quasar/app": "^2.0.0",
+    "dotenv": "^9.0.2"
+  },
+  "browserslist": [
+    "last 10 Chrome versions",
+    "last 10 Firefox versions",
+    "last 4 Edge versions",
+    "last 7 Safari versions",
+    "last 8 Android versions",
+    "last 8 ChromeAndroid versions",
+    "last 8 FirefoxAndroid versions",
+    "last 10 iOS versions",
+    "last 5 Opera versions"
+  ],
+  "engines": {
+    "node": ">= 10.18.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  }
+}

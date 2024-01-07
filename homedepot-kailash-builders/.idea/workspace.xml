@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="00e5ead1-1e77-4c07-8767-035895ea06ca" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/client/src/assets/kailashNew.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/api/Client.js" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/api/Client.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/HistoryViewerComponent.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/HistoryViewerComponent.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/components/QuerySearchRenderer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/components/QuerySearchRenderer.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/layouts/MainLayout.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/layouts/MainLayout.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/pages/Login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/Login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/pages/approvals.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/approvals.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/pages/groups.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/groups.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/pages/inventory.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/inventory.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/pages/machines.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/machines.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/pages/products.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/products.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/pages/salesAddEditPage.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/salesAddEditPage.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/pages/sites.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/sites.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/pages/staffs.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/staffs.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/pages/suppliers.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/suppliers.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/client/src/pages/warehouses.vue" beforeDir="false" afterPath="$PROJECT_DIR$/client/src/pages/warehouses.vue" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1rhCObRKfTl9hOgWm4azq7HQjGP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/client/src/assets" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/client/src/assets" />
+      <recent name="C:\Users\siddh\Documents\GitHub\homedepot-kailash-builders\client\src\pages" />
+      <recent name="C:\Users\siddh\Documents\GitHub\homedepot-kailash-builders\client\src\api" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\siddh\Documents\GitHub\homedepot-kailash-builders\client\src" />
+      <recent name="C:\Users\siddh\Documents\GitHub\homedepot-kailash-builders\client" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="00e5ead1-1e77-4c07-8767-035895ea06ca" name="Default Changelist" comment="" />
+      <created>1619418904005</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619418904005</updated>
+      <workItem from="1619418905238" duration="3220000" />
+      <workItem from="1619595335665" duration="138000" />
+      <workItem from="1619950989302" duration="329000" />
+      <workItem from="1620008099647" duration="18079000" />
+      <workItem from="1620375768091" duration="2115000" />
+      <workItem from="1620829899601" duration="609000" />
+      <workItem from="1620887014978" duration="3806000" />
+      <workItem from="1620961242482" duration="609000" />
+      <workItem from="1620976861291" duration="1573000" />
+      <workItem from="1620978469999" duration="6659000" />
+      <workItem from="1621045967914" duration="508000" />
+      <workItem from="1621046505878" duration="30627000" />
+      <workItem from="1621214852897" duration="1828000" />
+      <workItem from="1621225669717" duration="5302000" />
+      <workItem from="1621323656215" duration="10163000" />
+      <workItem from="1621391258812" duration="104000" />
+      <workItem from="1621400682496" duration="27432000" />
+      <workItem from="1621487086739" duration="22285000" />
+      <workItem from="1621568536666" duration="13000" />
+      <workItem from="1621577271042" duration="19151000" />
+      <workItem from="1622030164450" duration="65000" />
+      <workItem from="1622182824909" duration="16503000" />
+      <workItem from="1622270401984" duration="2429000" />
+      <workItem from="1622348086865" duration="800000" />
+      <workItem from="1622374205084" duration="5039000" />
+      <workItem from="1622431518051" duration="674000" />
+      <workItem from="1622457966763" duration="4490000" />
+      <workItem from="1622612426469" duration="10158000" />
+      <workItem from="1622706952123" duration="15043000" />
+      <workItem from="1622812509289" duration="1219000" />
+      <workItem from="1623212674666" duration="11647000" />
+      <workItem from="1623327161191" duration="1649000" />
+      <workItem from="1624192992942" duration="146000" />
+      <workItem from="1624505031972" duration="1385000" />
+      <workItem from="1624949915507" duration="19561000" />
+      <workItem from="1625042587965" duration="7937000" />
+      <workItem from="1625053267090" duration="273000" />
+      <workItem from="1625067394002" duration="2000" />
+      <workItem from="1625128362759" duration="1497000" />
+      <workItem from="1625218646180" duration="4457000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
